@@ -18,5 +18,4 @@ It allows users to:
 npm install
 ```
 ## Run Program
-```sh
-run dev
+run dev from package.json
