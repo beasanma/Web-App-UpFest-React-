@@ -6,8 +6,6 @@ This project is a mock website for an event company. It allows users to:
 - Access information about future festivals and artists performing at those festivals  
 - Purchase available tickets  
 
-This web app provides an intuitive and seamless experience for users interested in upcoming events.  
-
 ## Technologies  
 - React.js  
 - SCSS  
