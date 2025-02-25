@@ -12,3 +12,11 @@ It allows users to:
 - React.js  
 - SCSS  
 - TypeScript  
+
+```sh
+
+# Install Dependencies
+npm install
+
+# Run Program
+run dev
