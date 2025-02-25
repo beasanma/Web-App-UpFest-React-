@@ -13,10 +13,10 @@ It allows users to:
 - SCSS  
 - TypeScript  
 
-# Install Dependencies
+## Install Dependencies
 ```sh
 npm install
 ```
-# Run Program
+## Run Program
 ```sh
 run dev
